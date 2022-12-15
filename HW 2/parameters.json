@@ -1,0 +1,66 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_CustomScript_fileUris": {
+            "value": null
+        },
+        "extensions_CustomScript_storageAccountName": {
+            "value": null
+        },
+        "extensions_CustomScript_storageAccountKey": {
+            "value": null
+        },
+        "extensions_CustomScript_commandToExecute": {
+            "value": null
+        },
+        "extensions_CustomScript_fileUris_1": {
+            "value": null
+        },
+        "extensions_CustomScript_storageAccountName_1": {
+            "value": null
+        },
+        "extensions_CustomScript_storageAccountKey_1": {
+            "value": null
+        },
+        "extensions_CustomScript_commandToExecute_1": {
+            "value": null
+        },
+        "virtualMachines_VM1_name": {
+            "value": null
+        },
+        "virtualMachines_VM2_name": {
+            "value": null
+        },
+        "storageAccounts_glhw2_name": {
+            "value": null
+        },
+        "loadBalancers_GLHW2_LB_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM2_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_GLHW2_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1437_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2533_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_GLHW2_LB_publicip_name": {
+            "value": null
+        }
+    }
+}
